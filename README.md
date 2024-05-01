@@ -1,6 +1,9 @@
 # COLHERADA
 
 Projeto de Práticas Profissionais 3 😃
+
+[Figma](https://www.figma.com/file/vKgcSXn28pMFlgzu7Ooc5w/Colherada?type=design&mode=design&t=w0TZhTZfg0IpboDS-0)
+
 <p align="center">
 <img src = "https://media2.giphy.com/media/XzOtUD2QmJVQc/giphy.gif?cid=ecf05e47jjdowys3w938js9smylkynw7hzvfg16kbqs3q43r&rid=giphy.gif&ct=g"/>
 </p> 
